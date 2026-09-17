@@ -19,5 +19,5 @@ Técnico de Manutenção Júnior — suporte N1 (triagem de chamados, diagnósti
 _Em construção._
 
 ## Contato
-- LinkedIn: <!-- URL -->
-- Email: <!-- email -->
+- LinkedIn: (https://www.linkedin.com/in/lucas-fortes-lima/)
+- Email: lucas.flima_@outlook.com.br
